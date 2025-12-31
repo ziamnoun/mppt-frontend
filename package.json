@@ -12,10 +12,11 @@
     "@react-three/drei": "^10.7.7",
     "@react-three/fiber": "^9.4.2",
     "@tanstack/react-table": "^8.21.3",
+    "axios": "^1.13.2",
     "next": "^16.0.10",
     "react": "19.2.0",
     "react-dom": "19.2.0",
-    "recharts": "^3.5.1",
+    "recharts": "^3.6.0",
     "socket.io-client": "^4.8.1",
     "three": "^0.182.0"
   },
